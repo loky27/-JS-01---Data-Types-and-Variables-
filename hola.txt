@@ -1,0 +1,80 @@
+<Perfil:
+    <text:
+    Entusiasta de la tecnología y programación, 
+    con interés en la actualización continua respecto a nuevas tecnologías.
+    >
+>
+<Experiencia laboral:
+    <title:
+    Técnico 
+    >
+    <company:
+    `Byteciomtec
+    >
+    <cyty:
+    `Ciudad de México 
+    >
+    <date:
+        <start:`Febrero 2019/>
+        <finish:`Febrero 2020/>
+    >
+    <text:
+    *`Planeación e implemtentación de cableado estructural.`
+    *`Prototipado, planeación e implementación de páginas web usando Joomla y Gantry5.`
+    *`qué otros problemas, tanto del trabajo como administrativos, tenías que hacer?
+     diseño de algo, diseño de proyectos, solución de conflictos, etc`
+    >
+/>
+<Formación académica:
+    <text:
+        <titleU:
+        `Ingeniería mecatrónica (dónde y de qué fechas a qué fechas, poner si es trunca)`
+        />
+        <titleP:
+        `Bachillerato Técnico en mecatrónica (dónde y cuándo te graduaste)`
+        />
+    />
+/>
+<Formación complementaria:
+
+Certificado-Java Fullstack Developer
+#company:
+Generation,
+#cyti: 
+Ciudad de México
+#date:
+Noviembre 2021 - Marzo 2022
+
+Curso- NDG Linux Unhatched 
+Cisco Networking Academy
+Noviembre 2021 
+
+bootcamp-Desarrollo Web Full Stack
+Academlo 
+mayo 2020 - Febrero 2021
+>
+Tech Skills: 
+Python
+Redux
+Node
+Express
+Bootstrap
+MongoDB
+CSS
+Java
+HTML5
+Git
+JavaScript
+Bootstrap
+React.js
+React Router
+Bash
+Joomla
+/
+Soft Skills: 
+Trabajo en equipo 
+Liderazgo
+Manejo de tiempo 
+Responsabilidad  
+
+
